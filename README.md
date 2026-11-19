@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **valentinecleach/valentinecleach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Valentine, a biostatisticien currently living in France :))
+
+I have projects in biostats on here both in ecology and healthcare. At the moment, healthcare has very much taken most of my interest.
+
+I'm currently working on one personal project which I will not mention as it is too early on (haha). 
+
+(A fun fact about me is I try to find my family + fake dogs name in the end credits at the cinema??)
